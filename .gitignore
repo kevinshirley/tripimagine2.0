@@ -123,3 +123,6 @@ package-lock.json
 dump.rdb
 
 junit
+
+# Next.js
+.next

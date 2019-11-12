@@ -1,11 +1,11 @@
 import Layout from '../ui/src/components/common/layout';
 
-const Home = () => (
+const About = () => (
   <Layout>
     <div>
-      <h1>Trip Imagine 2.0 - with Next.js !</h1>
+      <h1>About - Trip Imagine 2.0</h1>
     </div>
   </Layout>
 );
 
-export default Home;
+export default About;
