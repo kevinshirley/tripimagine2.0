@@ -1,0 +1,1 @@
+export default () => (<div>Trip Imagine 2.0 - with next.js !</div>);
