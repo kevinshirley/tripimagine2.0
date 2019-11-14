@@ -4,7 +4,7 @@
   "description": "Tour and Travel Agency",
   "main": "app.js",
   "scripts": {
-    "dev": "next",
+    "dev": "nodemon server",
     "build": "next build",
     "start": "next start"
   },
@@ -20,9 +20,13 @@
   "homepage": "https://github.com/kevinshirley/tripimagine2.0#readme",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
+    "express": "^4.17.1",
     "next": "^9.1.3",
     "node-sass": "^4.13.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
   }
 }
