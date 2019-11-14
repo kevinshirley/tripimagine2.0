@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Navbar from './navbar';
+import '../../styles/app.scss';
 
 const Layout = props => (
   <div className="container layout">
